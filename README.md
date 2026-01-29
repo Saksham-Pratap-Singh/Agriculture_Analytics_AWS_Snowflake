@@ -7,7 +7,7 @@ This project demonstrates a scalable cloud-based data analytics pipeline designe
 * **Cloud Storage:** AWS S3 (Simple Storage Service)
 * **Data Warehouse:** Snowflake
 * **Query Language:** Snowflake SQL
-* **Visualization:** Microsoft Power BI / Tableau (Update based on your file)
+* **Visualization:** Microsoft Power BI
 * **Data Source:** Flat files (CSV/Excel)
 
 ### 📊 Project Workflow
